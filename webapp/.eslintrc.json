@@ -26,6 +26,7 @@
     }
   },
   "rules": {
+	"linebreak-style": ["error", "windows"],  
     "max-lines": "off",
     "no-unused-expressions": 0,
     "babel/no-unused-expressions": [2, {"allowShortCircuit": true}],
